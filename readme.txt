@@ -1,2 +1,4 @@
 git remote add t104gh
-checkout dev
+checkout master
+
+checkout master
